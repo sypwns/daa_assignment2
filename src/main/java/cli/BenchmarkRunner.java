@@ -41,7 +41,7 @@ public class BenchmarkRunner {
                     maj.map(Object::toString).orElse(""));
         }
     }
-
+// cli
     private static int[] generateArray(int n, String distribution) {
         Random rnd = new Random(42);
         int[] arr = new int[n];
