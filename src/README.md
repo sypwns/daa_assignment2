@@ -23,7 +23,7 @@ It includes:
 ## 📂 Project Structure
 
 
-Features:
+Features::
 - **Algorithm (`algorithms/BoyerMoore.java`)**: Static method `findMajority(int[], PerformanceTracker)` returning `Optional<Integer>`.
 - **Performance Tracker (`metrics/PerformanceTracker.java`)**: Tracks comparisons, memory allocations, array accesses, and execution time.
 - **Benchmark Runner (`cli/BenchmarkRunner.java`)**: Command-line tool to generate test data, run the algorithm, and print metrics in CSV format.
