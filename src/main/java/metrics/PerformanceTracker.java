@@ -1,5 +1,4 @@
 package metrics;
-
 /**
  * Simple performance counter used by algorithms to report key operations.
  */

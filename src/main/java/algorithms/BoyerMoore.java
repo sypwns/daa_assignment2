@@ -3,10 +3,6 @@ package algorithms;
 import metrics.PerformanceTracker;
 import java.util.Optional;
 
-/**
- * Boyer-Moore majority vote algorithm implementation.
- * Returns Optional.empty() when there is no majority element (> n/2).
- */
 public class BoyerMoore {
 
     /**
